@@ -13,4 +13,4 @@ cd mi-tienda
 npm install
 npm run dev
 
-
+*IMPORTANTE* El login aparece en ABOUT para probar la ruta protegida.
